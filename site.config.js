@@ -4,7 +4,7 @@ const CONFIG = {
     name: 'Jasmine Zhong',
     image: '/avatar.svg',  // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: 'Msc student',
-    bio: 'I develop everything using node.',
+    bio: 'Þ𝗮𝘂 𝗵𝗮𝗳𝗮 𝘀𝗹𝗼𝗽𝗽𝗶ð 𝘂𝗻𝗱𝗮𝗻 þ𝘂𝗻𝗴𝗮 𝗺𝘆𝗿𝗸𝘂𝗿𝘀𝗶𝗻𝘀.',
     email: 'zhongwj0105@163.com',
     linkedin: 'JasmineZHONG',
     github: 'JasmineZHONG',
@@ -12,14 +12,14 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `Jasmine‘s log`,
+      name: `Jasmine’s log`,
       href: 'https://github.com/JasmineZHONG/morethan-log.git'
     }
   ],
   // blog setting (required)
   blog: {
-    title: 'Jasmine‘s log',
-    description: 'welcome to Jasmine‘s log!',
+    title: 'Jasmine’s log',
+    description: 'welcome to Jasmine’s log!',
     theme: 'light' // ['light', 'dark', 'auto']
   },
 
@@ -53,7 +53,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: 'Jasmine/Jasmine‘s log',
+      repo: 'Jasmine/Jasmine’s log',
       'issue-term': 'og:title',
       label: '💬 Utterances',
     }
