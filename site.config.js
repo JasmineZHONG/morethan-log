@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: 'Jasmine Zhong',
-    image: '/avatar.svg',  // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: 'notion-avatar.vercel.app/api/svg/eyJmYWNlIjo5LCJub3NlIjoxMywibW91dGgiOjYsImV5ZXMiOjksImV5ZWJyb3dzIjo2LCJnbGFzc2VzIjowLCJoYWlyIjoyMiwiYWNjZXNzb3JpZXMiOjIsImRldGFpbHMiOjAsImJlYXJkIjowLCJmbGlwIjowLCJjb2xvciI6InJnYmEoMjU1LCAwLCAwLCAwKSIsInNoYXBlIjoibm9uZSJ9',  // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: 'Msc student',
     bio: 'Þ𝗮𝘂 𝗵𝗮𝗳𝗮 𝘀𝗹𝗼𝗽𝗽𝗶ð 𝘂𝗻𝗱𝗮𝗻 þ𝘂𝗻𝗴𝗮 𝗺𝘆𝗿𝗸𝘂𝗿𝘀𝗶𝗻𝘀.',
     email: 'zhongwj0105@163.com',
